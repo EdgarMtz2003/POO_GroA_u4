@@ -8,7 +8,7 @@ package polimorfismo;
 
 /**
  *
- * @author Juana García
+ * @author Juana García  0
  */
 public class Polimorfismo {
 
